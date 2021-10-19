@@ -1,3 +1,3 @@
 # VPCC-Challenge
 Name: Larry Ma 
-Group Members: Sylvia, Ananya
+Group Members: Sylvia Chen, Ananya
